@@ -1,0 +1,1 @@
+This is my Company Valuation Project where I analyse a company's standing in the market as something that currently holds economic value and, eventually, project its value into the future, for however long is theoretically possible.
